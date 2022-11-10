@@ -20,7 +20,7 @@
                         <li><a href="exercicio.php?dir=basico&file=ola">Ola php</a></li>
                         <li><a href="exercicio.php?dir=basico&file=html">Integracao html</a></li>
                         <li><a href="exercicio.php?dir=basico&file=css">Integracao css</a></li>
-
+                        <li><a href="exercicio.php?dir=basico&file=comentario">Comentaio php</a></li>
                     </ul>
                 </div>
             </nav>
