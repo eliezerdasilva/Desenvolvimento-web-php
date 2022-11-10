@@ -17,13 +17,10 @@
                 <div class="modulo verde">
                     <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=teste&file=teste">Exercício A</a></li>
-                    </ul>
-                </div>
-                <div class="modulo vermelho">
-                    <h3>Módulo 02</h3>
-                    <ul>
-                        <li><a href="exercicio.php?dir=teste&file=teste">Exercício B</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=ola">Ola php</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=html">Integracao html</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=css">Integracao css</a></li>
+
                     </ul>
                 </div>
             </nav>
