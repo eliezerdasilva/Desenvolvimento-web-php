@@ -42,4 +42,6 @@ body.exercicio {
     padding-bottom: 10px;
     border-bottom: 1px solid #999;
     margin-bottom: 20px;
+    font-weight: bold;
+    
 }

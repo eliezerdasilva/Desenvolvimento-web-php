@@ -15,7 +15,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Módulo 01 basicos</h3>
+                    <h3>1. basicos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=ola">Ola php</a></li>
                         <li><a href="exercicio.php?dir=basico&file=html">Integracao html</a></li>
@@ -24,7 +24,7 @@
                     </ul>
                 </div>
                 <div class="modulo vermelho">
-                    <h3>Módulo 02 tipos</h3>
+                    <h3>2. tipos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int">Tipo inteiro</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
@@ -37,6 +37,34 @@
 
                     </ul>
                 </div>
+                
+                <div class="modulo azul">
+                    <h3>3. variaveis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico">Variaveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equações</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=intepolacao">Interpolação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variaveis variaveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio Variaveis </a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor por Referecia </a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=Constante">Constante</a></li>
+                    </ul>
+                </div>
+                <div class="modulo roxo">
+                    <h3>4. controle</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">If e Else</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores relacionais</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Operadores logicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desasio Operadores logicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operador_ternario">Operadores ternario</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=switch">Switch</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch</a></li>
+                    </ul>
+                </div>
+                
             </nav>
         </div>
     </main>
