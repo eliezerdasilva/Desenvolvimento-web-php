@@ -64,6 +64,22 @@
                         <li><a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch</a></li>
                     </ul>
                 </div>
+                <div class="modulo laranja">    
+                    <h3>5. Array</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=mapa">Mapa</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_index">Desafio Index</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
+                        <li><a href="exercicio.php?dir=array&file=Operacoes">Operacoes</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_sorte">Desafio sorteio</a></li>
+                        <li><a href="exercicio.php?dir=array&file=Multidimensionais">Multidimensionais</a></li>
+                        <li><a href="exercicio.php?dir=array&file=constantes">Multidimensionais</a></li>
+                        <li><a href="exercicio.php?dir=array&file=get">$_Get</a></li>
+                        <li><a href="exercicio.php?dir=array&file=post">$_Post</a></li>
+                        <li><a href="exercicio.php?dir=array&file=comparacao">Comparacao</a></li>
+                    </ul>
+                </div>
                 
             </nav>
         </div>
