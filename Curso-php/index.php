@@ -80,7 +80,17 @@
                         <li><a href="exercicio.php?dir=array&file=comparacao">Comparacao</a></li>
                     </ul>
                 </div>
-                
+                <div class="modulo verde-escuro">    
+                    <h3>6. Repetições</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=laco_for">Laço for</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_for">Desafio for</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=foreach">Foreach</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break Continue</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_impressao">Desafio Impressao</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=while_do">While/Do while</a></li>
+                    </ul>
+                </div>  
             </nav>
         </div>
     </main>
