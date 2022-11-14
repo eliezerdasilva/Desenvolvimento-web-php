@@ -89,6 +89,8 @@
                         <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break Continue</a></li>
                         <li><a href="exercicio.php?dir=repeticoes&file=desafio_impressao">Desafio Impressao</a></li>
                         <li><a href="exercicio.php?dir=repeticoes&file=while_do">While/Do while</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela">Desafio tabela</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela2">Desafio tabela #2</a></li>
                     </ul>
                 </div>  
             </nav>
