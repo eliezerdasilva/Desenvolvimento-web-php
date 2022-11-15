@@ -16,7 +16,7 @@ body.exercicio {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    background-color: #555;
+    background-color:red;
 }
 
 .navegacao > a {
@@ -24,7 +24,7 @@ body.exercicio {
     color: #FFF;
     font-weight: 300;
     font-size: 1.3rem;
-    background-color: #2196f3;
+    background-color: #008516;
     padding: 5px 10px;
     margin-right: 10px;
 }
@@ -34,7 +34,7 @@ body.exercicio {
 
 .conteudo {
     font-size: 2rem;
-    background-color: rgb(206, 206, 206);
+    background-color: rgb(94, 8, 8);
 }
 
 .conteudo > .titulo {
