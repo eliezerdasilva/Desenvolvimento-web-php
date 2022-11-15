@@ -93,6 +93,23 @@
                         <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela2">Desafio tabela #2</a></li>
                     </ul>
                 </div>  
+                <div class="modulo vermelho-escuro">    
+                    <h3>7. funções</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=escopo">Escopo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_retorno">Args & e Retorno</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=palindromo">Desafio palindromo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Args variaveis</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=arg_padrao">Argumento Padrao</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando tipos</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=anonimas">Funcoes anonimas</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=closure_callable">Closure & Callable</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=recursividade">Recursividade</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=desafio_recursao">Desafio Recursividade</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=retornando_funcao">Retornando Função</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=map_filter">Map & filter</a></li>
+                    </ul>
+                </div>  
             </nav>
         </div>
     </main>
