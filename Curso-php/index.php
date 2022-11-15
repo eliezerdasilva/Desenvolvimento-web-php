@@ -110,6 +110,25 @@
                         <li><a href="exercicio.php?dir=funcoes&file=map_filter">Map & filter</a></li>
                     </ul>
                 </div>  
+                <div class="modulo azul-escuro">    
+                    <h3>8. Classe</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=classe">Classe</a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=classe_data">Classe Data</a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=construtur_descontrutor">Construtor e descontrutor</a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=heranca">Heranca </a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=visibilidade">Visibilidade</a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=static">Membros Static</a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=inteface"> Interface </a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=abstract"> Class Absrtract </a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=desafio_erros"> Desafio Erros </a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=modificador"> Modificador </a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=traits"> Traits #01 </a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=traits_2"> Traits #02 </a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=metodos_magicos"> Metodos Magicos </a></li>
+                        <li><a href="exercicio.php?dir=classe_objetos&file=polimorfismo"> Polimorfismo </a></li>
+                    </ul>
+                </div>  
             </nav>
         </div>
     </main>

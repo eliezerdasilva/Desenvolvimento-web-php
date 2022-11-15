@@ -4,6 +4,8 @@
 $notas = [5.8, 7.3, 9.8, 6.7];
 $notasFinais1 = [];
 
+
+//nao ta funcionado boa parte do codigo
 foreach($notas as $nota) {
     $notasFinais1[] = round($nota);
 }

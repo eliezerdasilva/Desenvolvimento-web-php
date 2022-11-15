@@ -8,6 +8,14 @@ echo 'Mundo!';
 echo '</small>';
 ?> 
 </h1>
-<?= "<div> Outra forma</div>?>"?>
+<div>Outra forma</div>
 <br>
-<div><button><?= "Legal" ?></button></div>
+<div><button>Legal</button></div>
+
+<style>
+    div button{
+     font-size: bold:
+    margin:1px;
+     color:red;
+    }
+</style>
