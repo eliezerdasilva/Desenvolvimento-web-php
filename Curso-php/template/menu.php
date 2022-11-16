@@ -127,16 +127,20 @@
                     </ul>
                 </div>  
                 <div class="modulo alaranjado">   
-                    <h3>10.</h3>
+                    <h3>10. NameSpace</h3>
                     <ul>
-                       
+                        <li><a href="exercicio.php?dir=namespace&file=basico">Namespace</a></li>
+                        <li><a href="exercicio.php?dir=namespace&file=sub_namespace">Sub-Namespace</a></li>
+                        <li><a href="exercicio.php?dir=namespace&file=use_as">Use/As</a></li>
                         
                     </ul>
                 </div>  
                 <div class="modulo azulzinho">   
-                    <h3>11</h3>
+                    <h3>11. Tratamento de erro</h3>
                     <ul>
-                     
+                    <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try/Catch</a></li>
+                    <li><a href="exercicio.php?dir=tratamento_erro&file=erro_personalizados">Erros Personalizados</a></li>
+
                         
                     </ul>
                 </div>  

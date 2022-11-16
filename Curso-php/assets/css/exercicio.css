@@ -16,7 +16,7 @@ body.exercicio {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    background-color:red;
+    background-color:#FFF;
 }
 
 .navegacao > a {
@@ -34,7 +34,7 @@ body.exercicio {
 
 .conteudo {
     font-size: 2rem;
-    background-color: rgb(94, 8, 8);
+    background-color: rgb(255, 255, 255);
 }
 
 .conteudo > .titulo {
