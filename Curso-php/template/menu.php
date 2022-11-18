@@ -147,7 +147,8 @@
                 <div class="modulo bordo">   
                     <h3>12</h3>
                     <ul>
-                        
+                    <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Sessão</a></li>
+
                         
                     </ul>
                 </div>  
