@@ -7,10 +7,15 @@ body {
     height: 100vh;
     margin: 0px;
     display: grid;
-    grid-template-rows: 120px 1fr 60px;
-    grid-template-columns: 1fr;
+    grid-template-rows: 120px 60px 1fr 60px;
+    grid-template-columns: 1fr;    
     grid-template-areas: 
         "cabecalho"
+        "principal"
+        "rodape";
+    grid-template-areas: 
+        "cabecalho"
+        "navegacao"
         "principal"
         "rodape";
 }
@@ -42,7 +47,7 @@ body {
 
 .principal {
     grid-area: principal;
-    height: calc(100vh - 180px);
+    height: calc(100vh - 240px);
     background-color: #f0f0f0;
     padding: 20px;
 }
@@ -137,31 +142,53 @@ body {
 .modulo.roxo-escuro { border: 2px solid #4A148C; }
 .modulo.roxo-escuro > h3 { background-color: #4A148C; }
 
-.modulo.alaranjado { border: 2px solid #ff6601; }
-.modulo.alaranjado > h3 { background-color: #ff6601; }
+.modulo.laranja-escuro { border: 2px solid #E65527; }
+.modulo.laranja-escuro > h3 { background-color: #E65527; }
 
-.modulo.azulzinho{ border: 2px solid #00d4d4; }
-.modulo.azulzinho > h3 { background-color: #00d4d4; }
+.modulo.preto{ border: 2px solid #222; }
+.modulo.preto> h3 { background-color: #222; }
 
-.modulo.bordo { border: 2px solid #471329;}
-.modulo.bordo > h3 { background-color: #471329; }
+.modulo.orange { border: 2px solid #F44336; }
+.modulo.orange > h3 { background-color: #F44336 }
 
+.modulo.verdelima { border: 2px solid rgb(26, 255, 18)}
+.modulo.verdelima > h3 { background-color: rgb(26, 255, 18) }
 
-
-p.divisao{
+p.divisao {
     margin-bottom: 0px;
     font-weight: bold;
 }
-hr{
+
+hr {
     margin-top: 0px;
 }
 
-
-
-p.titulo{
-    margin-bottom: 0px;
-    font-weight: bold;
+.navegacao {
+    grid-area: navegacao;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #555;
 }
-hr{
-    margin-top: 0px;
+
+.navegacao > a {
+    text-decoration: none;
+    color: #FFF;
+    font-weight: 300;
+    font-size: 1.3rem;
+    background-color: #2196f3;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+.navegacao > a.verde { background-color: #4CAF50; }
+.navegacao > a.vermelho { background-color: #F44336; }
+
+span.usuario {
+    flex-grow: 1;
+    justify-self: flex-start;
+    color: #EEE;
+    padding-left: 10px;
+    font-size: 1.2rem;
+    font-weight: 300;
 }

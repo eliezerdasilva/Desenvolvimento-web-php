@@ -126,7 +126,7 @@
                         
                     </ul>
                 </div>  
-                <div class="modulo alaranjado">   
+                <div class="modulo preto">   
                     <h3>10. NameSpace</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=namespace&file=basico">Namespace</a></li>
@@ -135,7 +135,7 @@
                         
                     </ul>
                 </div>  
-                <div class="modulo azulzinho">   
+                <div class="modulo orange">   
                     <h3>11. Tratamento de erro</h3>
                     <ul>
                     <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try/Catch</a></li>
@@ -144,12 +144,19 @@
                         
                     </ul>
                 </div>  
-                <div class="modulo bordo">   
-                    <h3>12</h3>
+                <div class="modulo verdelima">   
+                    <h3>12. Sessao</h3>
                     <ul>
                     <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Sessão</a></li>
+                    <li><a href="exercicio.php?dir=sessao&file=gerenciando_sessao">Gerenciando Sessão</a></li>
 
                         
+                    </ul>
+                </div>  
+                <div class="modulo vermelho">   
+                    <h3>13. Api</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=api&file=datas_a1">Data #01</a></li>
                     </ul>
                 </div>  
             </nav>

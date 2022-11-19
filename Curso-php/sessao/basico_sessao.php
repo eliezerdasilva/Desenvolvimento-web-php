@@ -19,7 +19,7 @@ print_r($_SESSION);
 ?>
 
 <p>
-    <a href='/DESENVOLVIMENTO-WEB-PHP/Curso-php/sessao/basico_sessao_alterar.php'>
+    <a href='/sessao/basico_sessao_alterar.php'>
         Alterar Sessão
     </a>
 </p>

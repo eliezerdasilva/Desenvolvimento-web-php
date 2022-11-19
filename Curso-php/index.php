@@ -1,3 +1,15 @@
+<?php 
+session_start();
+
+if($_COOKIE['usuario']) {
+    $_SESSION['usuario'] = $_COOKIE['usuario'];
+}
+
+if(!$_SESSION['usuario']) {
+    header('Location: login.php');
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,15 +23,17 @@
         <h1>Curso PHP</h1>
         <h2>Índice dos Exercícios</h2>
     </header>
+    <nav class="navegacao">
+        <span class="usuario">Usuário: <?= $_SESSION['usuario'] ?></span>
+        <a href="logout.php" class="vermelho">Sair</a>
+    </nav>
     <main class="principal">
         <div class="conteudo">
-            <?php
-             require_once('template/menu.php')
-            ?>
+            <?php require_once('template/menu.php'); ?>
         </div>
-    </main>
+    </ma in>
     <footer class="rodape">
-        COD3R & ALUNOS © <?= date('Y'); ?>
+        Aprenzidado PHP © <?= date('Y'); ?>
     </footer>
 </body>
 </html>
