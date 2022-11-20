@@ -157,6 +157,12 @@
                     <h3>13. Api</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=api&file=datas_a1">Data #01</a></li>
+                        <li><a href="exercicio.php?dir=api&file=datas_02">Data #02</a></li>
+                        <li><a href="exercicio.php?dir=api&file=escrever_arquivo">Escrever Arquivo</a></li>
+                        <li><a href="exercicio.php?dir=api&file=Leitura_arquivo">Leitura Arquivo</a></li>
+                        <li><a href="exercicio.php?dir=api&file=upload">Uploud</a></li>
+                        <li><a href="exercicio.php?dir=api&file=dowloud">Download</a></li>
+                        <li><a href="exercicio.php?dir=api&file=desafio_imagens">Desafio Imagens</a></li>
                     </ul>
                 </div>  
             </nav>
