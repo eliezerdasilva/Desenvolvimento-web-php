@@ -165,4 +165,10 @@
                         <li><a href="exercicio.php?dir=api&file=desafio_imagens">Desafio Imagens</a></li>
                     </ul>
                 </div>  
+                <div class="modulo verde-escuro">   
+                    <h3>14. Formulario</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=formulario&file=formulario">Formulario</a></li>
+                    </ul>
+                </div>  
             </nav>
