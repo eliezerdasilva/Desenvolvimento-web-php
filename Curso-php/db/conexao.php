@@ -1,7 +1,7 @@
 <?php
 
 function novaConexao($banco = 'curso_php') {
-    $servidor = '127.0.0.1:8050';
+    $servidor = '127.0.0.1:3306';
     $usuario = 'root';
     $senha = 'root';
 

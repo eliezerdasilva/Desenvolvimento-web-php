@@ -4,12 +4,12 @@
 
 require_once "conexao.php";
 $sql = "INSERT INTO cadastro
-(nome, nascimento, email, site, filhos, salario)
+(nome, nascimento, email, site, filhos, salari)
 VALUES (
-    'Andre Miranda',
-    '1999-09-01',
-    'miranda_andre@yahoo.com',
-    'https://mirandaandre.io',
+    'jose',
+    '2002-03-04',
+    'jose_@yahoo.com',
+    'https://jose.io',
     0,
     19980.12
 )";
@@ -23,6 +23,6 @@ if($resultado) {
     
     echo "Erro: " . $conexao->error;
 }
-echo "censaouf";
+
 
 $conexao->close();

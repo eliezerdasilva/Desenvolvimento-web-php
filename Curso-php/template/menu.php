@@ -177,6 +177,9 @@
                         <li><a href="exercicio.php?dir=db&file=criar_banco">Criar Bd</a></li>
                         <li><a href="exercicio.php?dir=db&file=criar_tabela">Criar tabela</a></li>
                         <li><a href="exercicio.php?dir=db&file=inserir_1">Inseirir Registro</a></li>
+                        <li><a href="exercicio.php?dir=db&file=consultar">Consulatar Registro</a></li>
+                        <li><a href="exercicio.php?dir=db&file=excluir_1">Excluir Registro #01</a></li>
+                        <li><a href="exercicio.php?dir=db&file=excluir_2">Excluir Registro #02</a></li>
                     </ul>
                 </div>  
             </nav>
