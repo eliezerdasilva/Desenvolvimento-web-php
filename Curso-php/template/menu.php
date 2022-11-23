@@ -171,4 +171,12 @@
                         <li><a href="exercicio.php?dir=formulario&file=formulario">Formulario</a></li>
                     </ul>
                 </div>  
+                <div class="modulo roxo">   
+                    <h3>14. Banco de dados</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=db&file=criar_banco">Criar Bd</a></li>
+                        <li><a href="exercicio.php?dir=db&file=criar_tabela">Criar tabela</a></li>
+                        <li><a href="exercicio.php?dir=db&file=inserir_1">Inseirir Registro</a></li>
+                    </ul>
+                </div>  
             </nav>
